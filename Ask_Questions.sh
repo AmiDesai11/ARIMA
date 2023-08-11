@@ -1,5 +1,4 @@
 #!/bin/bash
-## Questions
 
 echo "Hi"
 read $REPLY
